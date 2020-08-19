@@ -151,6 +151,4 @@ Jeśli chcesz, możesz zmienić event za pomocą którego użytkownik ożywia i 
 
 Jeśli zaś masz jeszcze siłę do dalszego działania, możesz dowolnie usprawnić działanie Twojej aplikacji (np. dodając efekty wizualne lub dźwiękowe). 
 
-**Gratulacje!**
 
-**Repozytorium z ćwiczeniami zostanie usunięte 2 tygodnie po zakończeniu kursu. Spowoduje to też usunięcie wszystkich forków, które są zrobione z tego repozytorium.**
